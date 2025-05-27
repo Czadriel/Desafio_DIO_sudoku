@@ -1,4 +1,4 @@
-✨ ## Nesse Desafio da DIO 
+## ✨ Nesse Desafio da DIO 
 
 Foram adicionadas duas funcionalidades principais ao projeto de Sudoku:
 
@@ -21,3 +21,6 @@ Geração de tabuleiros completos e válidos, respeitando as regras do Sudoku.
 Remoção controlada de números com base no nível de dificuldade escolhido.
 
 Geração aleatória, garantindo uma experiência única a cada partida.
+
+
+Insira um gif ou um link de alguma demonstração
